@@ -1,11 +1,11 @@
-# translating-for-raspberry-pi
+# getting-started-with-translation
 
-![translating-for-raspberry-pi](banner.png)
+![getting-started-with-translation](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/translating-for-raspberry-pi](https://projects.raspberrypi.org/en/projects/translating-for-raspberry-pi)
+Find the project online at [projects.raspberrypi.org/en/projects/getting-started-with-translation](https://projects.raspberrypi.org/en/projects/getting-started-with-translation)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/translating-for-raspberry-pi/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/translating-for-raspberry-pi/tree/master/en/solutions).
+For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/getting-started-with-translation/tree/master/en/resources)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
