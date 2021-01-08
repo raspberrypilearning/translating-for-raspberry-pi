@@ -4,7 +4,7 @@
 Now that you know what you’ll be translating, what the workflow is, and what tools you’ll be using, you hopefully decided to get involved. To get started:
 
 --- task ---
-Fill out our [registration form](https://www.raspberrypi.org/forms/volunteer-translator-form/).
+Fill out our [registration form](https://form.raspberrypi.org/4779300).
 --- /task ---
 
 --- task ---
